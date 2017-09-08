@@ -15,7 +15,8 @@
 	],
 	"scripts": {
 		"build": "npm run soy && webpack",
-		"soy": "metalsoy --soyDeps node_modules/metal*/src/**/*.soy node_modules/clay*/src/**/*.sory"
+		"start": "npm run build && http-server -p 3000",
+		"soy": "metalsoy --soyDeps node_modules/metal*/src/**/*.soy"
 	},
 	"keywords": [
 		"metal"
