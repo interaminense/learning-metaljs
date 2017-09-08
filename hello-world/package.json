@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-metal": "^2.2.2"
+  },
+  "dependencies": {
+    "metal-component": "^2.13.2",
+    "metal-soy": "^2.13.2"
+  }
+}
