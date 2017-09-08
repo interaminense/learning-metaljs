@@ -1,6 +1,6 @@
-# metal-modal
+# metal-hello-world
 
-My awesome Metal.js project
+My first Component in Metal.js
 
 ## Setup
 
